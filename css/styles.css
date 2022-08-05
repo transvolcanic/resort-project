@@ -19,3 +19,7 @@ h1 {
     font-weight: 400;
     font-size: 55px;
   } 
+
+  body {
+    background-color:rgba(44, 170, 50, 0.918);
+  }
