@@ -37,6 +37,11 @@ h1 {
     font-weight: 500;
   }
 
+  a {
+    color:rgb(100, 35, 5);
+    font-weight:500;
+  }
+
   body {
     background-color:rgba(44, 170, 50, 0.918);
   }
