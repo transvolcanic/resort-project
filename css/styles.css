@@ -1,5 +1,5 @@
 h1 {
-  color:rgba(145, 51, 8, 0.829);
+  color:rgba(109, 41, 10, 0.979);
   font-weight: 700;
   font-size: 90px;
   font-family: sans-serif;
@@ -10,11 +10,11 @@ h1 {
   img {
     display: block;
     margin: 0 auto;
-    border: 15px solid rgba(145, 51, 8, 0.829);
+    border: 15px solid rgba(109, 41, 10, 0.979);
   }
   
   h2 {
-    color:rgba(145, 51, 8, 0.829);
+    color:rgba(109, 41, 10, 0.979);
     font-family: sans-serif;
     font-weight: 400;
     font-size: 55px;
