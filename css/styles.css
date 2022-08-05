@@ -11,7 +11,15 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
+  border: 15px solid rgba(5, 65, 5, 0.829);
 }
+
+h2 {
+  color:rgba(5, 65, 5, 0.829);
+  font-weight: 400;
+  font-size: 55px;
+} 
+
 
 body {
   background-color:rgb(97, 120, 155);
