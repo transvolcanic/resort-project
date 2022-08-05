@@ -13,3 +13,9 @@ h1 {
     border: 15px solid rgba(145, 51, 8, 0.829);
   }
   
+  h2 {
+    color:rgba(145, 51, 8, 0.829);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 55px;
+  } 
