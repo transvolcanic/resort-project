@@ -28,6 +28,15 @@ h1 {
     color:rgba(109, 41, 10, 0.979)
   }
 
+  h3 {
+    text-emphasis-style:unset;
+    font-family: 'Segoe UI';
+    font-style:italic;
+    font-size: 30px;
+    color:rgb(100, 35, 5);
+    font-weight: 500;
+  }
+
   body {
     background-color:rgba(44, 170, 50, 0.918);
   }
