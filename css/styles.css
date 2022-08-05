@@ -2,6 +2,7 @@ h1 {
   color:rgba(109, 41, 10, 0.979);
   font-weight: 700;
   font-size: 90px;
+  font-style: italic;
   font-family: 'Segoe UI';
   text-align:center;
   list-style-image:;
@@ -16,7 +17,7 @@ h1 {
   h2 {
     color:rgba(109, 41, 10, 0.979);
     font-family: 'Segoe UI';
-    font-weight: 400;
+    font-weight: 600;
     font-size: 55px;
   } 
 
