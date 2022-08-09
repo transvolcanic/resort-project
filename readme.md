@@ -2,4 +2,11 @@
 ***
 >> By Michael Clarke  
 
->> An experimental project to create a website for a resort in order to introduce and practice basic coding.  
+>> An experimental project to create a website for a resort in order to introduce and practice introductory coding skills.  
+
+***
+## Technologies used  
+* HTML
+* CSS
+***
+
