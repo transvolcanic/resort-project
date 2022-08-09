@@ -23,3 +23,9 @@ A project to code and style a faux website for a resort including a homepage lin
 ## Known Bugs
 *Selecting booking dates on booking page not functional
 
+***
+## License 
+*MIT*  
+_Copyright (c) 2022 Michael Clarke_
+
+
